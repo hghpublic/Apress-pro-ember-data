@@ -1,0 +1,27 @@
+= Stash
+
+Getting started with Ember
+
+https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/Ember_getting_started
+
+The Business Benefits of EmberJS
+
+https://medium.com/@vlad.koval/the-business-benefits-of-emberjs-6aaaecd6c738
+
+Ember RealWorld example app
+
+https://github.com/gothinkster/ember-realworld
+
+
+https://www.toptal.com/javascript/a-step-by-step-guide-to-building-your-first-ember-js-app
+
+The simplest possible Ember Data CRUD Tutorial
+
+
+https://medium.com/ember-ish/the-simplest-possible-ember-data-crud-16eacee33ae6
+
+https://github.com/jenweber/simplest-ember-data-crud
+
+Ember Examples
+
+https://gist.github.com/rwjblue/8816372

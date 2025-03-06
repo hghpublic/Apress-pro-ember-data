@@ -1,0 +1,9 @@
+= ember.js
+
+https://emberjs.com/
+
+https://guides.emberjs.com/release/getting-started/quick-start/
+
+== LTS Channel
+
+https://emberjs.com/releases/lts/

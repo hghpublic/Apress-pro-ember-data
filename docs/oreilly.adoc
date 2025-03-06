@@ -1,0 +1,26 @@
+= O'Reilly
+
+Ember.js Cookbook
+
+https://learning.oreilly.com/library/view/ember-js-cookbook/9781783982202/
+
+Ember.js in Action
+
+https://learning.oreilly.com/library/view/ember-js-in-action/9781617291456/
+
+https://www.manning.com/books/ember-js-in-action
+
+Building Web Apps with Ember.js
+
+https://learning.oreilly.com/library/view/building-web-apps/9781449370916/
+
+Deliver Audacious Web Apps with Ember 2
+
+https://learning.oreilly.com/library/view/deliver-audacious-web/9781680501599/
+
+== Course
+
+Learning Ember.js
+
+https://learning.oreilly.com/course/learning-emberjs/9781771373388/
+
