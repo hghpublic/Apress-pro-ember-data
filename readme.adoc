@@ -1,0 +1,16 @@
+= Pro Ember Data
+Getting Ember Data to Work with Your API
+By David Tang
+
+== O'Reilly
+
+https://learning.oreilly.com/library/view/pro-ember-data/9781484265611/
+
+
+== APress
+
+https://www.apress.com/9781484265604
+
+https://link.springer.com/book/10.1007/978-1-4842-6561-1
+
+https://github.com/Apress/pro-ember-data
